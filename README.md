@@ -13,4 +13,4 @@
   <img align="center" alt="saas" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div><br/>
 
- Passionate about technology, games. Seeking a new path through programming.
+ Passionate about technology, games and soccer. Seeking a new path through programming.
