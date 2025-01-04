@@ -5,6 +5,6 @@
 
 ### programming language that I'm studying daily
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
 
  Passionate about technology, games and soccer. Seeking a new path through programming.
